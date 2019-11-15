@@ -1,7 +1,6 @@
-# interview_questions
-This project contains Interview questions with solutions and answers.
-
-Intention of this project is
+# IQA
+This project is for Interview Question Answers
+and contains solutions and answers for the questions, problems
 
 1. Collection of Interview questions/problem
 2. Provide the solution/answers of the problem
