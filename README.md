@@ -1,2 +1,17 @@
 # interview_questions
-This project contains Interview questions with solution and answers
+This project contains Interview questions with solutions and answers.
+
+Intention of this project is
+
+1. Collection of Interview questions/problem
+2. Provide the solution/answers of the problem
+
+You are most welcome to colleborate into this project and make it a huge platform with many programming related problems and their solution collection.
+
+If you want to submit any problem to be included into this project.
+Please [click here](https://github.com/AshishNamdev/interview_questions/issues/new) to submit.
+include solution too if you have solution of the problem else mention clearly that you want us to solve the problem and include into the project
+
+you are open to submit [Pull Request](https://github.com/AshishNamdev/interview_questions/compare) with direct modification into project repo, on succesfully passing the review it will be included into the project
+
+### Please refer [QUESTIONS](questions/QUESTIONS.md)
