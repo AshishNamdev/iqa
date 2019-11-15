@@ -17,7 +17,7 @@ half pyramid
 '''
 n = 5
 for i in range(1, n+1):
-    print ("%s " %i * i)
+  print ("%s " %i * i)
 
 print("\n")
 
@@ -31,7 +31,7 @@ Inverted half pyramid
 '''
 n = 5
 for i in range(n, 0, -1):
-    print ("%s " %i * i)
+  print ("%s " %i * i)
 
 print("\n")
 
@@ -45,8 +45,8 @@ Triangle
 '''
 n = 5
 for i in range(1, n+1):
-    print (' ' * (n - i)),
-    print (" %s" %i * i)
+  print (' ' * (n - i)),
+  print (" %s" %i * i)
 
 print("\n")
 
@@ -60,8 +60,8 @@ Full pyramid
 '''
 n = 5
 for i in range(1, n+1):
-    print ('  ' * (n - i)),
-    print (" %s" %i * (2 * i - 1))
+  print ('  ' * (n - i)),
+  print (" %s" %i * (2 * i - 1))
 
 print("\n")
 
@@ -73,11 +73,44 @@ Inverted full pyramid
       3 3 3 3 3
         2 2 2
           1
-
 '''
 n = 5
 for i in range(n, 0, -1):
-    print ('  ' * (n - i)),
-    print (" %s" %i * (2 * i - 1))
+  print ('  ' * (n - i)),
+  print (" %s" %i * (2 * i - 1))
 
 print("\n")
+
+'''
+Pascal's triangle
+           1
+         1   1
+       1   2   1
+     1   3   3    1
+   1  4    6   4   1
+ 1  5   10   10  5   1
+'''
+n = 5
+val = 1
+for i in range(0, n+1):
+  print ('  ' * (n - i)),
+  for j in range(0, i+1):
+    val = 1 if (i == 0 or j == 0)\
+              else val * (i - j + 1) / j
+    print ("%4d" % val),
+  print("\n")
+
+'''
+Floyd's Triangle
+  1
+  2 3
+  4 5 6
+  7 8 9 10
+'''
+n = 5
+no = 1
+for i in range(1, n+1):
+  for j in range(1, i):
+    print ("%2d" % no),
+    no += 1
+  print("\n")
