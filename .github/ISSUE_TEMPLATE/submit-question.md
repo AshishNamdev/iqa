@@ -1,6 +1,6 @@
 ---
 name: Submit question
-about: Submit your question to get it solved/asnwered and included in iqa
+about: Submit your question to get it solved/answered and included in iqa
 title: ''
 labels: question
 assignees: AshishNamdev
