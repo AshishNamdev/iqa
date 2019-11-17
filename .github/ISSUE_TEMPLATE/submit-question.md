@@ -14,12 +14,13 @@ assignees: AshishNamdev
 ```<technology name>
 Your code in <technology name>
 ```
-### Output:
-```bash
-Mention your desired output here
-```
 
 ### Solution:
 ```<technology name>
 Solution in <technology name>
+```
+
+### Output:
+```bash
+Mention your desired output here
 ```
