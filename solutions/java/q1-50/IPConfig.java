@@ -19,8 +19,7 @@ class IPConfig
        {
             Process p = Runtime.getRuntime().exec("ipconfig");
             BufferedReader output = new BufferedReader(new InputStreamReader(p.getInputStream()));
-            line = output.readLine();
-            while(line != null)
+            while((line = output.readLine()) != null)
             {
                 System.out.println(line);
             }
