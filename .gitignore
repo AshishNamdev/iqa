@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Java files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.properties
+
 # Distribution / packaging
 .Python
 build/

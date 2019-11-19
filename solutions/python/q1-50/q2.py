@@ -12,7 +12,7 @@ test_data = "Betty got a bread with Butter which is bitter she wants better Brea
 
 test_data = {word: len(word) for word in test_data.split() if word.upper().startswith('B')}
 
-print ("Total words start with 'b' = %s" % len(test_data.keys()))
+print ("Total words start with 'b' or 'B' = %s" % len(test_data.keys()))
 
 for key, val in test_data.items():
-    print ("Word '%s', Length = %s" % (key, val))
+    print ("Word '%s', length = %s" % (key, val))
