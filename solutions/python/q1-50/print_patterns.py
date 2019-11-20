@@ -104,11 +104,8 @@ def pascals_triangle():
 '''
 Floyd's Triangle
  1
-
  2  3
-
  4  5  6
-
  7  8  9 10
 '''
 def floyds_triangle():
@@ -118,3 +115,11 @@ def floyds_triangle():
             print ("%1d" % no),
             no += 1
         print("\n")
+
+half_pyramid()
+inverted_half_pyramid()
+triangle()
+full_pyramid()
+inverted_full_pyramid()
+pascals_triangle()
+floyds_triangle()
