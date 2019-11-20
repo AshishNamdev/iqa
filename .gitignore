@@ -9,6 +9,12 @@ __pycache__/
 # Java files
 *.class
 
+# C# files
+Program.CS
+*.csproj
+obj/
+bin/
+
 # Package Files #
 *.jar
 *.war
