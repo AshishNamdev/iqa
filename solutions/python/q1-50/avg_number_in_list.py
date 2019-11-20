@@ -12,7 +12,7 @@ DATE = '2019-11-17'
 UPDATED = '2019-11-17'
 
 n = 10
-a = [i for i in range(1, n)]
+a = [i for i in range(1, n + 1)]
 avg = sum(a)/n
-print("Average of elements in the %s = %s" % (a, avg))
+print("Average of elements in the %s = %.1f" % (a, avg))
 
