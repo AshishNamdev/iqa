@@ -11,7 +11,7 @@ Created on Nov 19, 2019
 	Betty got a bread with Butter which is bitter she wants better Bread and butter for breakfast
 */
 
-class WordCountStartWithChar
+public class WordCountStartWithChar
 {
     public static void main(final String []args)
     {

@@ -1,6 +1,3 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-
 /*
 Created on Nov 19, 2019
 
@@ -12,8 +9,10 @@ Created on Nov 19, 2019
 ### Write Code to Run `ipconfig` command and print output on screen.
 */
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
-class IPConfig
+public class IPConfig
 {
     public static void main(final String []args)
     {

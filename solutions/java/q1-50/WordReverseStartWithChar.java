@@ -11,7 +11,7 @@ Created on Nov 19, 2019
 	Betty got a bread with Butter which is bitter she wants better Bread and better for breakfast
 */
 
-class WordReverseStartWithChar
+public class WordReverseStartWithChar
 {
     private static String stringReverse(String str)
     {

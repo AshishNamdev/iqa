@@ -9,7 +9,7 @@ Created on Nov 20, 2019
 ### Print following patterns
 */
 
-class PrintPatterns
+public class PrintPatterns
 {
     int n = 5;
 
