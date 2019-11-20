@@ -3,7 +3,9 @@ Created on Nov 17, 2019
 
 @author: Ashish Namdev
 '''
-# Solution for Question25 [Q25]
+
+## Q25
+### Can you write a program to find the average of numbers in a list / array?
 
 VERSION = '1.0.0'
 DATE = '2019-11-17'

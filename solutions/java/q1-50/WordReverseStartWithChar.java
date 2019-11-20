@@ -4,7 +4,12 @@ Created on Nov 19, 2019
 @author: Ashish Namdev
 */
 
-// Solution for Question3 [Q3]
+/*
+## Q3
+### Given following phrase, you need to **reverse the word starts with letter 'b'**
+	
+	Betty got a bread with Butter which is bitter she wants better Bread and better for breakfast
+*/
 
 class WordReverseStartWithChar
 {

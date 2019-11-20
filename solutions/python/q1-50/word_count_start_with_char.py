@@ -3,7 +3,10 @@ Created on Nov 15, 2019
 
 @author: Ashish Namdev
 '''
-# Solution for Question2 [Q2]
+## Q2
+### Given following phrase, you need to provide the **count of word starts with letter 'b'** along with **individual word and it's length**
+	
+#   Betty got a bread with Butter which is bitter she wants better Bread and butter for breakfast
 
 VERSION = '1.0.0'
 DATE = '2019-11-15'

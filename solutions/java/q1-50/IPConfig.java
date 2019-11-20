@@ -7,7 +7,10 @@ Created on Nov 19, 2019
 @author: Ashish Namdev
 */
 
-// Solution for Question3 [Q6]
+/*
+## Q6
+### Write Code to Run `ipconfig` command and print output on screen.
+*/
 
 
 class IPConfig

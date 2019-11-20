@@ -4,7 +4,8 @@ Created on Nov 15, 2019
 @author: Ashish Namdev
 '''
 
-# Solution for Question6 [Q6]
+## Q6
+### Write Code to Run `ipconfig` command and print output on screen.
 
 VERSION = '1.0.0'
 DATE = '2019-11-15'

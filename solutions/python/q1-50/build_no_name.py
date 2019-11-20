@@ -3,7 +3,17 @@ Created on Nov 15, 2019
 
 @author: Ashish Namdev
 '''
-# Solution for Question1 [Q1]
+## Q1
+### You are given  random build number, from the following data format **you need to provide respective Build name**
+'''
+Build Number Range - Build Name
+000-010 - Hourly
+011-020 - Nightly
+021-030 - Beta
+031-040 - Test
+101-199 - Release Candidate
+201-300 - Release
+'''
 
 VERSION = '1.0.0'
 DATE = '2019-11-15'

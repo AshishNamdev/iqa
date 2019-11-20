@@ -4,7 +4,8 @@ Created on Nov 15, 2019
 @author: Ashish Namdev
 '''
 
-# Solution for Question7 [Q7]
+## Q7
+### Create a dictionary of values and it's squares of all even numbers up to 100
 
 VERSION = '1.0.0'
 DATE = '2019-11-15'
