@@ -11,9 +11,10 @@ __pycache__/
 
 # C# files
 Program.CS
-*.csproj
-obj/
-bin/
+*.pdb
+*.dll
+*.cache
+iqa.csproj.FileListAbsolute.txt
 
 # Package Files #
 *.jar
