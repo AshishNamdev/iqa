@@ -5,7 +5,7 @@ Created on Nov 19, 2019
 */
 
 /*
-## Q6
+## Q5 Programming
 ### Write Code to Run `ipconfig` command and print output on screen.
 */
 

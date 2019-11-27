@@ -4,7 +4,7 @@ Created on Nov 15, 2019
 @author: Ashish Namdev
 '''
 
-## Q6
+## Q5 Programming
 ### Write Code to Run `ipconfig` command and print output on screen.
 
 VERSION = '1.0.0'

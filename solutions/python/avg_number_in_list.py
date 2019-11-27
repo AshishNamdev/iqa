@@ -4,7 +4,7 @@ Created on Nov 17, 2019
 @author: Ashish Namdev
 '''
 
-## Q25
+## Q7 Programming
 ### Can you write a program to find the average of numbers in a list / array?
 
 VERSION = '1.0.0'
