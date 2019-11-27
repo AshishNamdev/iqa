@@ -5,7 +5,7 @@ Created on Nov 27, 2019
 */
 
 /*
-## Q6 Programming
+## Q6-Programming
 ### Create a dictionary of values and it's squares of all even numbers up to 100
 */
 

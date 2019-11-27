@@ -5,7 +5,7 @@ Created on Nov 20, 2019
 */
 
 /*
-## Q4 Programming
+## Q4-Programming
 ### Print following patterns
 */
 

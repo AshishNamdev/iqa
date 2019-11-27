@@ -4,7 +4,7 @@ Created on Nov 15, 2019
 @author: Ashish Namdev
 '''
 
-## Q4 Programming
+## Q4-Programming
 ### Print following patterns
 
 VERSION = '1.0.0'
